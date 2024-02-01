@@ -1,0 +1,41 @@
+# Bot Discord League of Legends Champion Info
+
+Ce bot Discord est conçu pour fournir des informations sur les champions de League of Legends. Il est destiné à aider les joueurs à accéder facilement aux détails des champions directement depuis Discord.
+
+## Installation
+Pour installer les dépendances, exécutez les commandes suivantes :
+
+1. Pour Node.js :
+npm install discord.js riotwatcher request
+2. Pour Python :
+pip install riotwatcher requests
+
+Ensuite, suivez les étapes suivantes pour démarrer le bot.
+
+## Fonctionnalités
+
+- **Commande de recherche de champion :** Permet aux utilisateurs de rechercher des informations sur un champion spécifique.
+- **Affichage des statistiques :** Fournit des détails sur les statistiques, les capacités et les astuces de jeu de chaque champion.
+- **Images de champions :** Affiche des images des champions pour une expérience visuelle améliorée.
+
+## Commandes
+
+1. `!l champ:Yasuo` - Affiche les informations détaillées sur le champion spécifié.
+2. `!l VotrePseudo` - Affiche les rangs d'un compte
+
+## Installation
+
+1. Cloner le dépôt GitHub.
+2. Installer les dépendances en exécutant `npm install`.
+3. Configurer le token du bot Discord.
+4. Démarrer le bot en exécutant `node client.js`.
+
+## Exemple d'utilisation
+
+Ce bot répondra avec les détails du champion Yasuo ses capacités et des astuces de jeu.
+
+## Auteur
+
+Ce bot a été développé par Mattei Emilien.
+
+N'hésitez pas à contribuer en ouvrant des issues ou des pull requests pour améliorer ce bot Discord League of Legends Champion Info.
