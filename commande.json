@@ -1,0 +1,11 @@
+[
+    {
+        "":["Summoner","name"]
+    },
+    {
+        "spell":["Spell","all"]
+    },
+    {
+        "champ":["Champions","allKit"]
+    }
+]
